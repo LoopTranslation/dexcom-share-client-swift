@@ -5,7 +5,7 @@
 "Cancel" = "Renunță";
 
 /* Title of cell to set credentials */
-"Credentials" = "Credentiale";
+"Credentials" = "Date de autentificare";
 
 /* Title describing glucose date */
 "Date" = "Data";
@@ -36,5 +36,5 @@
 "US" = "SUA";
 
 /* The title of the Dexcom share username credential */
-"Username" = "Nume utilizator";
+"Username" = "Nume de utilizator";
 
